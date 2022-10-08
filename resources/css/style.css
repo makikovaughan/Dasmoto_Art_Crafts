@@ -1,0 +1,73 @@
+html,
+body {
+  width: 99.5%;
+  height: 100%;
+  font-family: Helvetica;
+  margin: 0 auto;
+}
+
+/* Header setup */
+.header-container {
+  background-image: url("../images/pattern.jpeg");
+  text-align: center;
+  margin-top: 6rem;
+}
+
+/* h1 setup Dastmoto's Arts & Crafts */
+h1 {
+  font-size: 6.25rem;
+  font-weight: bold;
+  color: khaki;
+}
+
+.col {
+  padding-left: 0rem;
+}
+
+/* Column's text */
+.text-color {
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+  padding-left: 0.75rem;
+  margin-bottom: 0.625rem;
+}
+
+/* Paragraph's setup */
+p {
+  font-size: 1.75rem;
+}
+
+/* First Column's p background */
+.text-background1 {
+  background-color: mediumspringgreen;
+  width: 100%;
+}
+
+/* First colmn's background */
+.text-background2 {
+  background-color: lightcoral;
+  width: 100%;
+}
+
+/* First colmn's background */
+.text-background3 {
+  background-color: skyblue;
+  width: 100%;
+}
+
+/* img's setup */
+img {
+  margin: 2rem 0rem;
+}
+
+/* h2's setup */
+h3 {
+  font-weight: bold;
+}
+
+/* Span's setup */
+span {
+  color: blue;
+  font-weight: bold;
+}
